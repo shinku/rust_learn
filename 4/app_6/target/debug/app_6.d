@@ -1,0 +1,1 @@
+/Users/admin/Documents/test/rust/git/rust_learn/4/app_6/target/debug/app_6.dSYM: /Users/admin/Documents/test/rust/git/rust_learn/4/app_6/src/main.rs /Users/admin/Documents/test/rust/git/rust_learn/4/app_6/src/sound.rs
